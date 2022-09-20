@@ -4,13 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+his is simple Note App using flutter staggered grid and google fonts plugins .
 
-A few resources to get you started if this is your first Flutter project:
+This is user friendly app. User can type their notes easily. User can add and delete their notes in easy way.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+App provided with floating action button for adding notes and user can delete respective notes by long pressing functionality.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+State of the application is managed by Value notifier.
+
+
