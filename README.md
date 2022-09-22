@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-his is simple Note App using flutter staggered grid and google fonts plugins .
+This is simple Note App using flutter staggered grid and google fonts plugins .
 
 This is user friendly app. User can type their notes easily. User can add and delete their notes in easy way.
 
